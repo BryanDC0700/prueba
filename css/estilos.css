@@ -13,3 +13,10 @@ body{
     font-size: right;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
+#cabecera{
+    background-color: #a43333;
+    color: #0b0b0b;
+    font-weight: bold;
+    margin: 0px;
+    padding: 10px;
+}
