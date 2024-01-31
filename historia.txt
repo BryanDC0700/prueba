@@ -4,3 +4,4 @@ pruebas del programa git bash
 
 git add para agregar las modificaciones al repositorio
 git commit -m "   ": para aumentar mensaje de programacion
+git log: para mostrar los cambios
