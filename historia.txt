@@ -12,7 +12,8 @@ git diff: para ver los cambios del archivo
 git checkout: para saltar de ramas del proyecto que se tiene
 git branch: agregar una rama al proyecto para que trabajen
 git config -l: verificar configuracion en consola
-git pull origen master:
+git pull origen master: llamar a la nube y verificar si no ubo modificaciones
+git push origen master: mandar a la nube todo lo nuevo que se hizo
 ----------------------------------------------------------------------------------------------------------
 git remote -v: verificar versiones de remotas
 git remote set-url origen git@github.com:BryanDC0700/prueba.git: cambiar el ssh a otra nueva llave o link
@@ -20,5 +21,6 @@ git remote set-url origen git@github.com:BryanDC0700/prueba.git: cambiar el ssh 
 ssh-add ~/.ssh/id_rsa: validad llave ssh en consola
 eval $(ssh-agent -s): evalua la llave ssh si esta en el sistema
 ssh-keygen -t rsa -b 4096 -C "202013239D@utea.edu.pe
+---------------------------------------------------------------------------------------------------------
 
 
