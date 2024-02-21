@@ -22,5 +22,5 @@ ssh-add ~/.ssh/id_rsa: validad llave ssh en consola
 eval $(ssh-agent -s): evalua la llave ssh si esta en el sistema
 ssh-keygen -t rsa -b 4096 -C "202013239D@utea.edu.pe
 ---------------------------------------------------------------------------------------------------------
-
+git clone git@github.com:americoUTEA/Prueba.git
 
